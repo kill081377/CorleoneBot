@@ -1,0 +1,16 @@
+{
+    "hug_self": [
+        "%member% got pretty lonely...",
+        "Someone come give %member% a hug.",
+        "Hugging yourself is better than no hug at all %member%!",
+        "Today is a sad day... Wrap your arms around your body...",
+        "Feelin' lonesome are ya?"
+    ],
+    "hug_other": [
+        "%member% just gave %mention% a hug!",
+        "I hope you asked %mention% before giving them that hug, %member%!",
+        "owo Come here %mention% and let %member% give ya' a hug!",
+        "%member% and %mention% sitting in a tree... I don't know how the rest of this song goes.",
+        "What's better than hugging yourself? Hugging someone else!"
+    ]
+}
